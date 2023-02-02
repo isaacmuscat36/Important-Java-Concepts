@@ -1,4 +1,4 @@
-public class ReverseNumber {
+public class code01_Numbers_reverse_number {
  
         public static void main(String[] args) {
                
